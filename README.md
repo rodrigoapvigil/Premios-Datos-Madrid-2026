@@ -12,7 +12,7 @@ Este proyecto presenta una solución tecnológica para facilitar la comprensión
 [▶️ Haz clic aquí para acceder y probar el cuadro de mando en Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWVhOTM4ZmUtYWRiMy00N2ZmLTg3NTktZDkyZjJiODExYjI3IiwidCI6IjZhZmVhODVkLWMzMjMtNDI3MC1iNjlkLWE0ZmIzOTI3YzI1NCIsImMiOjl9&pageName=dc5e9c4eecefccf19af9)
 
 ## 📺 Vídeo Demostrativo
-[▶️ Haz clic aquí para ver el vídeo explicativo del proyecto](Pega_aqui_el_enlace_de_tu_video)
+[▶️ Haz clic aquí para ver el vídeo explicativo del proyecto](https://www.youtube.com/watch?v=XJkdK6U5EUo)
 
 ## 📂 Documentación
 En este repositorio se encuentra alojada la memoria técnica del proyecto en formato PDF, la cual detalla las fuentes de datos utilizadas, la metodología aplicada y las conclusiones principales del estudio.
